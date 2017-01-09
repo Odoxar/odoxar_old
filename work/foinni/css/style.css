@@ -1,0 +1,687 @@
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Exo', sans-serif;
+font-family: 'MyriadPro-Regular', sans-serif;
+*/
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.clearfix:after {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+.foinni {
+    color: rgb(29, 222, 133);
+    text-transform: uppercase;
+}
+
+.slicknav_menu {
+    display:none;
+}
+
+@media screen and (max-width: 40em) {
+    /* #menu is the original menu */
+    .js #menu {
+        display:none;
+    }
+    
+    .js .slicknav_menu {
+        display:block;
+    }
+}
+
+/*--------------HEADER---------------*/
+
+.header {
+    background: url(../images/header_bg.png) no-repeat;
+    background-size: cover;
+}
+
+/*--------------HEADER-TOP---------------*/
+.header-top {
+    width: 100%;
+    padding-top: 43px;
+    margin-bottom: 43px;
+}
+.header-logo {
+    float: left;
+    margin-left: 30px;
+}
+
+.header-logo-link {
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 36px;
+}
+
+
+.header-logo-small {
+    color: rgb(255, 252, 244);   
+}
+
+.header-logo-big {
+    color: rgb(29, 222, 133);
+    font-family: 'Pacifico', cursive;
+    position: relative;
+    left: -9px;
+}
+
+.header-menu {
+    float: right;
+    margin-right: 97px;
+}
+
+.header-menu-item {
+    display: inline-block;
+    margin-right: 44px;
+}
+
+.header-menu-item:last-child {
+    margin-right: 0;
+}
+
+.header-menu-link {
+    display: block;
+    line-height: 36px;
+    color: rgb(255, 252, 244);
+    font-size: 14px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+
+.header-menu-link:hover {
+    color: rgb(29, 222, 133);
+    border-bottom: 1px solid rgb(29, 222, 133);
+
+}
+
+.header-definer {
+    width: 100%;
+    height: 1px;
+    opacity: 0.5;
+    background-color: rgb(143, 142, 145);
+}
+
+/*--------------HEADER-TOP-END---------------*/
+
+/*--------------HEADER-CONTENT---------------*/
+
+.header-content {
+    padding: 263px 0;
+    text-align: center;
+}
+
+.header-content-title {
+    font-family: 'Exo', sans-serif;
+    font-size: 48px;
+    line-height: 48px;
+    color: rgb(255, 252, 244);
+    font-weight: 400;
+}
+
+.header-content-title .foinni {
+    font-weight: 900;
+}
+
+.header-content-text {
+    margin-top: 49px;
+    color: white;
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+/*--------------HEADER-CONTENT-END---------------*/
+
+/*--------------HEADER-END---------------*/
+
+/*--------------SERVICES---------------*/
+
+.services {
+    margin-top: 125px;
+    text-align: center;
+}
+
+.services-title {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    color: rgb(69, 69, 70);
+
+}
+
+
+.services-text {
+    margin-top: 60px;
+    color: rgb(143, 142, 145);
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0 122px;
+}
+
+.services-boxes {
+    margin-top: 87px;
+    display: inline-block;
+}
+
+.services-boxes-item {
+    float: left;
+    border: 0.5px solid rgb(143, 142, 145);
+    width: 30.6%;
+    margin-right: 4.1%;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+
+}
+
+.services-boxes-item:nth-child(3n) {
+    margin-right: 0;
+}
+
+.services-boxes-sumbol {
+    color: rgb(69, 69, 70);
+    font-size: 28px;
+    line-height: 45px;
+    padding-top: 20px;
+}
+
+.services-boxes-link {
+    display: block;
+    text-decoration: none;
+
+}
+
+.services-boxes-title {
+    color: rgb(69, 69, 70);
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 45px;
+
+}
+
+.services-boxes-text {
+    color: rgb(143, 142, 145);
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-top: 21px;
+    padding: 0 4px 33px;
+}
+
+.services-boxes-item:hover {
+    outline: 2px solid rgb(29, 222, 133);
+    border: none;
+}
+
+.services-boxes-item:hover .services-boxes-title {
+    color: rgb(29, 222, 133);
+}
+
+.services-boxes-item:hover .services-boxes-sumbol {
+    color: rgb(29, 222, 133);
+}
+
+/*--------------SERVICES-END---------------*/
+
+/*--------------TEAM---------------*/
+
+.team {
+    margin: 78px 0;
+}
+
+.team-title {
+    color: rgb(69, 69, 70);
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.team-info {
+    margin-top: 60px;
+    box-sizing: border-box;
+    background-size: cover;
+    height: 375px;
+}
+
+.team-info-item {
+    float: left;
+    width: 23%;
+    height: 355px;
+    margin-right: 2.66%;
+
+    position: relative;
+}
+
+.Abida{
+    background: url(../images/abida.png) no-repeat center center;
+}
+.Liker{
+    background: url(../images/liker.png) no-repeat center center;
+}
+.Mahmud{
+    background: url(../images/mahmud.png) no-repeat;
+}
+.Jolil{
+    background: url(../images/jolil.png) no-repeat center center;
+}
+
+.team-info-item:last-child {
+    margin-right: 0;
+}
+
+
+.info-item-content {
+    position: absolute;
+    bottom: 0;
+    opacity: 0.94;
+    background-color: rgb(69, 69, 70);
+    color: rgb(255, 252, 244);
+    width: 100%;
+}
+
+.info-item-content-name {
+    font-size: 18px;
+    font-weight: 400;
+
+    margin-top: 19px;
+}
+
+.info-item-content-prof {
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 10px;
+    margin-bottom: 19px;
+}
+
+.team-info-item:hover {
+    height: 375px;
+}
+
+.team-info-item:hover.Abida,
+.team-info-item:hover.Liker,
+.team-info-item:hover.Mahmud,
+.team-info-item:hover.Jolil{
+    background-size: cover;
+}
+
+.team-info-item:hover .info-item-content {
+    height: 355px;
+    padding: 18px 0;
+    background-color: rgb(29, 222, 133);
+    opacity: 0.8;
+}
+
+.team-info-item:hover .info-item-content-name {
+    padding-top: 130px;
+
+}
+
+.soc-button {
+    display: none;
+}
+
+.team-info-item:hover .soc-button {
+    display: block;
+    border-top: 1px solid white;
+    opacity: 0.94;
+    border-bottom: 1px solid white;
+    margin-top: 80px;
+}
+
+.soc-button-link {
+    line-height: 40px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+/*--------------TEAM-END---------------*/
+/*--------------GALLERY---------------*/
+
+.gallery {
+    
+}
+
+.gallery-title {
+    color: #454546;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    margin-bottom: 55px
+}
+
+#filter {
+    margin-bottom: 50px;  
+    background: #FFF;
+    text-align: center;
+}
+
+#filter button {
+    display: inline-block;
+    margin-right: 41px; 
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 36px;
+    color: #434243;
+    background: #FFF;
+}
+
+#filter button:last-child {
+    margin-right: 0; 
+}
+
+#filter button.active { 
+    background-color: #FFF;
+    color: #1dde85;
+    border-bottom: 1px solid #1dde85;
+}
+
+.gallery-more {
+    margin: 30px auto;
+    display: block;
+    width: 195px;
+    height: 50px;
+    background-color: #1dde85;
+    color: #fffcf4;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 50px;
+    text-decoration: none;
+}
+
+/*--------------GALLERY-END---------------*/
+/*--------------PRICING---------------*/
+
+.pricing {
+    margin-top: 85px;
+    padding: 0 25px;
+
+}
+
+.pricing-title {
+    color: #454546;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;   
+    margin-bottom: 65px;
+}
+
+.pricing-item {
+    width: 23%;
+    color: #8f8e91;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 36px;
+    display: inline-block;
+    margin-right: 1%;
+    padding-bottom: 25px;
+    box-sizing: border-box;
+}
+
+.pricing-item:last-child {
+    margin-right: 0;
+}
+
+.pricing-item-price {
+    font-size: 36px;
+    font-weight: 400;
+    border: 0.5px solid #454546;
+    line-height: 50px;
+}
+.sub {
+ vertical-align: sub;
+}
+
+.sup {
+    vertical-align: super;
+}
+
+.pricing-item-btn {
+    border: 0.5px solid #454546;
+    background-color: #fff;
+    color: #454546;
+    padding: 15px;
+    text-align: center;
+}
+
+.pricing-item:hover {
+    outline: 0.5px solid #1dde85;
+}
+
+.pricing-item:hover .pricing-item-name {
+    color: #1dde85;
+}
+
+.pricing-item:hover .pricing-item-btn,
+.pricing-item:hover .pricing-item-price {
+    color: #fff;
+    background-color: #1dde85;
+    border: 0.5px solid #1dde85;
+}
+
+/*--------------PRICING-END---------------*/
+/*--------------HI---------------*/
+
+.hi {
+    margin-top: 125px;
+    background: url(../images/hi_bg.png) no-repeat center center;
+    background-size: cover;
+}
+
+.hi-title {
+    color: #fffcf4;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 40px 0 30px 0;
+}
+
+.hi-form {
+    padding: 0 139px;
+}
+
+.hi-form-name,
+.hi-form-email {
+    height: 50px;
+    width: 49%;
+    margin-right: 1%;
+    outline: 0;
+}
+
+.hi-form-email {
+    margin-right: 0;
+}
+
+.hi-form-name,
+.hi-form-email,
+.hi-form-text {
+    background-color: transparent;
+    box-sizing: border-box;
+    border: 0.5px solid white;
+    padding:  0 0 0 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #fffcf4;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 50px;   
+}
+
+.hi-form-text {
+    display: block;
+    width: 100%;
+    height: 215px;
+    margin-top: 28px;
+}
+
+.hi-form-btn {
+    margin-top: 28px;
+    color: #fffcf4;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    background-color: #1dde85;
+    border: 0;
+    padding: 15px;
+    margin-bottom: 37px;
+}
+
+/*--------------HI-END---------------*/
+/*--------------MAIN-END---------------*/
+/*--------------FOOTER---------------*/
+
+.footer-about {
+    background-color: #0b0a0a;
+}
+
+.about {
+    padding-top: 30px; 
+    padding-bottom: 30px;
+}
+
+.about-content {
+    float: left;
+    width: 32%;
+    margin-right: 1%;
+    text-align: left;
+}
+
+.about-content:last-child {
+    margin-right: 0;
+}
+
+.about-content-title {
+    color: white;
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    padding-left: 15px;   
+}
+
+.links>.about-content-title {
+    padding-left: 85px;
+}
+
+.subscribe>.about-content-title {
+    padding-left: 0;
+}
+
+.subscribe>.about-content-title:last-of-type {
+    margin-top: 20px;
+}
+
+.about-content-text {
+    color: #8f8e91;
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0 10px;
+    text-align: left;
+}
+
+.about-content-quick {
+    padding: 0px 85px;
+}
+
+.content-quick-item.left {
+    float: left;
+}
+
+.content-quick-item.right {
+    float: right;
+}
+
+.content-quick-item {
+    display: block;
+    width: 102px;
+    
+}
+
+.content-quick-link {
+    color: #8f8e91;
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px; 
+    text-decoration: none;
+    display: block;  
+}
+
+.subscribe-link {
+    display: inline-block;
+    border: 2px solid #8f8e91;
+    color: #8f8e91;
+     font-size: 25px;
+     line-height: 38px; 
+     width: 40px;
+     box-sizing: border-box;
+     text-align: center;
+}
+
+.subscribe-btn {
+    color: #fffcf4;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    background-color: #1dde85;
+    border: 0;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.subscribe-email {
+    display: block;
+    height: 40px;
+    width: 57%;
+    outline: 0;
+    background-color: transparent;
+    box-sizing: border-box;
+    border: 0.5px solid white;
+    padding:  0 0 0 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #fffcf4;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: italic;
+    line-height: 40px;   
+}
+
+.design {
+    background-color: black;
+    height: 70px;
+}
+
+.design-text {
+    color: #8f8e91;
+    font-family: 'MyriadPro-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

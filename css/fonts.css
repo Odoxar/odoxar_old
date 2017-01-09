@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Noteworthy-Bold';
+    src: url('../fonts/Noteworthy-Bold.eot');
+    src: url('../fonts/Noteworthy-Bold.woff2') format('woff2'),
+    url('../fonts/Noteworthy-Bold.woff') format('woff'),
+    url('../fonts/Noteworthy-Bold.ttf') format('truetype'),
+    url('../fonts/Noteworthy-Bold.svg#Noteworthy-Bold') format('svg'),
+    url('../fonts/Noteworthy-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -19,7 +19,7 @@
              $("#userEmail").val()+'&subject='+
              $("#subject").val()+'&content='+
              $(content).val(),
-             type: "POST",
+             type: "GET",
              success:function(data){
                  $("#mail-status").html(data);
              },

@@ -1,5 +1,5 @@
 
- "use strict";
+"use strict";
  $(".contact").fancybox();
  $(document).ready(function() {
      $(".work-gallery-link").fancybox({
@@ -9,57 +9,56 @@
 
  });
 
- $(function() {
+ function sendContact() {
+     var valid;
+     valid = validateContact();
+     if(valid) {
+         jQuery.ajax({
+             url: "contact_mail.php",
+             data:'userName='+$("#userName").val()+'&userEmail='+
+             $("#userEmail").val()+'&subject='+
+             $("#subject").val()+'&content='+
+             $(content).val(),
+             type: "POST",
+             success:function(data){
+                 $("#mail-status").html(data);
+             },
+             error:function (){}
+         });
+     }
+ }
 
-     // Get the form.
-     var form = $('#ajax-contact');
-
-     // Get the messages div.
-     var formMessages = $('#form-messages');
-
-     // Set up an event listener for the contact form.
-     $(form).submit(function(e) {
-         // Stop the browser from submitting the form.
-         e.preventDefault();
-
-         // Serialize the form data.
-         var formData = $(form).serialize();
-
-         // Submit the form using AJAX.
-         $.ajax({
-             type: 'POST',
-             url: $(form).attr('action'),
-             data: formData
-         })
-             .done(function(response) {
-                 // Make sure that the formMessages div has the 'success' class.
-                 $(formMessages).removeClass('error');
-                 $(formMessages).addClass('success');
-
-                 // Set the message text.
-                 $(formMessages).text(response);
-
-                 // Clear the form.
-                 $('#name').val('');
-                 $('#email').val('');
-                 $('#message').val('');
-             })
-             .fail(function(data) {
-                 // Make sure that the formMessages div has the 'error' class.
-                 $(formMessages).removeClass('success');
-                 $(formMessages).addClass('error');
-
-                 // Set the message text.
-                 if (data.responseText !== '') {
-                     $(formMessages).text(data.responseText);
-                 } else {
-                     $(formMessages).text('Oops! An error occured and your message could not be sent.');
-                 }
-             });
-
-     });
-
- });
+ function validateContact() {
+     var valid = true;
+     $(".demoInputBox").css('background-color','');
+     $(".info").html('');
+     if(!$("#userName").val()) {
+         $("#userName-info").html("(required)");
+         $("#userName").css('background-color','#FFFFDF');
+         valid = false;
+     }
+     if(!$("#userEmail").val()) {
+         $("#userEmail-info").html("(required)");
+         $("#userEmail").css('background-color','#FFFFDF');
+         valid = false;
+     }
+     if(!$("#userEmail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+         $("#userEmail-info").html("(invalid)");
+         $("#userEmail").css('background-color','#FFFFDF');
+         valid = false;
+     }
+     if(!$("#subject").val()) {
+         $("#subject-info").html("(required)");
+         $("#subject").css('background-color','#FFFFDF');
+         valid = false;
+     }
+     if(!$("#content").val()) {
+         $("#content-info").html("(required)");
+         $("#content").css('background-color','#FFFFDF');
+         valid = false;
+     }
+     return valid;
+ }
 
 // // // smooth scrolling to anchor
 //     //smoothscroll

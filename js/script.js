@@ -14,7 +14,7 @@
      valid = validateContact();
      if(valid) {
          jQuery.ajax({
-             url: "contact_mail.php",
+             url: "https://odoxar.github.io/contact_mail.php",
              data:'userName='+$("#userName").val()+'&userEmail='+
              $("#userEmail").val()+'&subject='+
              $("#subject").val()+'&content='+

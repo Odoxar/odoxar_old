@@ -1,13 +1,12 @@
 
  "use strict";
-
+ $(".contact").fancybox();
  $(document).ready(function() {
      $(".work-gallery-link").fancybox({
          arrows: true,
          mouseWheel: false
      });
 
-     $(".contact").fancybox();
  });
 
  $(function() {

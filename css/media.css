@@ -179,5 +179,9 @@
     .work-gallery-link {
         min-height: 250px;
     }
+
+    .button-wrap .btn:nth-child(3) {
+        margin-top: 10px;
+    }
 }
 

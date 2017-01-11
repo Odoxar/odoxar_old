@@ -5,6 +5,9 @@ body {
   font-weight: 400;
   background-image: url("../images/bg.jpg"); }
 
+.hide_popup {
+  display: none; }
+
 /*----------Header----------*/
 .wrap {
   box-sizing: border-box;
@@ -29,10 +32,12 @@ body {
 .header-content {
   padding-left: 20px; }
 
-.header-title {
-  font-family: 'Oswald', sans-serif;
+.header-title,
+.popup-title {
+  font-family: 'Arimo', sans-serif;
   font-weight: 300;
   font-size: 40px;
+  line-height: 30px;
   color: #1b4491;
   margin-left: -3px;
   margin-bottom: 20px; }
@@ -142,8 +147,38 @@ body {
   min-height: 95px;
   background-color: #1b6d85; }
 
-#inline {
-  display: none; }
+.inline-image {
+  width: 100%;
+  height: auto; }
+
+.fancybox-nav {
+  width: 15%;
+  height: 75%; }
+
+.popup-title {
+  margin-left: 0; }
+
+.button-wrap {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.popup-text {
+  padding: 15px; }
+
+.popup-text-owner {
+  padding: 15px 15px 0;
+  font-weight: 600; }
+  .popup-text-owner .popup-text-allot {
+    font-weight: 400; }
+
+.popup-text-owner-link:hover, .popup-text-owner-link:focus {
+  text-decoration: none;
+  color: #337ab7; }
+
+.popup-text-allot {
+  color: #7b90b5;
+  padding-right: 10px; }
 
 /*----------Work-End---------*/
 /*----------Main-End---------*/

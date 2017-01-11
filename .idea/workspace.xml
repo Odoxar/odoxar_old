@@ -2,10 +2,265 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17bced5-1adb-4821-9941-17477c0d53f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/modusVersus/.idea/workspace.xml" afterPath="$PROJECT_DIR$/work/modusVersus/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/modusVersus/css/_main-page.scss" afterPath="$PROJECT_DIR$/work/modusVersus/css/_main-page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/modusVersus/css/_responsive.scss" afterPath="$PROJECT_DIR$/work/modusVersus/css/_responsive.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/modusVersus/css/styles.css" afterPath="$PROJECT_DIR$/work/modusVersus/css/styles.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/ami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/analytics.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/css(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/jquery-1.11.2.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/jquery-ui.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/news1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/news2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/product.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/shopify-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Brandly_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/ami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/analytics.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/blog_image-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/blog_image-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/blog_image-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/bootstrap.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/brooten.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/css(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/gibson.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery-1.11.2.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery-ui.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox-buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox-buttons.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox-media.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox-thumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox-thumbs.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.fancybox.pack.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.mousewheel-3.0.6.pack.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/jquery.slicknav.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/love.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/main-slider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/main.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/responsive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/shopify-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/slick.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/slicknav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/widerski.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_Zonya_files/work-gallery_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/ami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/analytics.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/disk_cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/gift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/infographic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/john_doe_card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/jquery-1.11.2.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/jquery-ui.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/jquery.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/main.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/shopify-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/slick.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/slicknav.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive__files/tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/ami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/analytics.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/beckham.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/cash_bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/css(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/david.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/jquery-1.11.2.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/jquery-ui.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/lamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/london-item-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/london-item-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/london-item.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/progress10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/progress60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/shopify-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_crowdme_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/StaticMapService.GetMapImage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/ami.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/analytics.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/common.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/controls.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/css(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/css(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/google4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/init_embed.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery-1.11.2.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery-ui.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox-buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox-buttons.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox-media.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox-thumbs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox-thumbs.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.fancybox.pack.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.magnific-popup.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.mousewheel-3.0.6.pack.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/jquery.slicknav.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/kh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/kh(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/map.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/mapcnt6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/onePageNav.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/onion.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/overlay.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/place(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/place(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/place(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/place.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/saved_resource(1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/saved_resource(2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/saved_resource(3).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/saved_resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/script.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/search_impl.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/shopify-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slick.min.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slicknav.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slide_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slide_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/slide_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/small_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/stats.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/tmapctrl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/util.js.завантаження" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(1)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(10)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(11)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(12)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(13)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(14)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(15)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(16)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(17)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(18)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(19)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(2)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(20)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(21)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(22)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(23)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(24)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(25)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(26)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(27)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(28)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(29)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(3)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(30)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(31)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(32)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(33)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(34)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(35)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(36)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(37)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(38)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(39)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(4)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(40)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(41)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(42)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(43)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(44)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(45)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(46)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(47)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(48)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(49)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(5)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(50)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(51)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(52)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(53)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(54)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(55)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(56)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(6)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(7)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(8)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/vt(9)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Am I Responsive_millidesgn_files/wow.js.завантаження" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media.css" afterPath="$PROJECT_DIR$/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <ignored path="myfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,8 +279,70 @@
   <component name="FavoritesManager">
     <favorites_list name="myfolio" />
   </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6721311">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="262">
+                  <caret line="238" column="32" selection-start-line="238" selection-start-column="32" selection-end-line="238" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/script.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/style.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="media.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/media.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="537">
+                  <caret line="183" column="25" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/css/media.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -64,6 +381,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -72,17 +391,106 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,33 +500,44 @@
       <option name="presentableId" value="Default" />
       <updated>1483971187012</updated>
       <workItem from="1483971188651" duration="9000" />
+      <workItem from="1483974671018" duration="8711000" />
+      <workItem from="1484039256854" duration="591000" />
+      <workItem from="1484117776147" duration="6291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9000" />
+    <option name="totallyTimeSpent" value="15602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1234" height="816" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14614122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -126,5 +545,87 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="183" column="25" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="238" column="32" selection-start-line="238" selection-start-column="32" selection-end-line="238" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

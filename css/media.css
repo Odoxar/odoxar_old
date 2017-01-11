@@ -1,5 +1,23 @@
 @media screen and (min-width: 992px) and (max-width: 1200px) {
+    .work-gallery{
+        padding-left: 4px;
+    }
 
+    .millidesign {
+        padding-top: 20px;
+    }
+
+    .loom .greeting-header {
+        font-size: 33px;
+    }
+
+    .crowdme {
+        background: url(../images/logo-img-crowdme.png) no-repeat 10px 16px;
+    }
+
+    .crowdme .logo-text {
+        margin-left: 38px;
+    }
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -94,6 +112,11 @@
     .section-content-list-skill {
         width: 38%;
     }
+
+    .work-gallery-logo {
+        width: 230px;
+        margin: 0 auto;
+    }
 }
 
 @media screen and (min-width: 319px) and (max-width: 478px) {
@@ -172,12 +195,13 @@
         width: 100%;
     }
 
-    .work-gallery-item {
-        width: 100%;
+    .work-gallery-logo {
+        width: 230px;
+        margin: 0 auto;
     }
 
-    .work-gallery-link {
-        min-height: 250px;
+    .work-gallery-link-image {
+        width: 100%;
     }
 
     .button-wrap .btn:nth-child(3) {

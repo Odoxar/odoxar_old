@@ -6,6 +6,14 @@
          arrows: true,
          mouseWheel: false
      });
+
+     $(".contact").fancybox({
+         'autoScale'     	: false,
+         'title'            : null,
+         'transitionIn'		: 'none',
+         'transitionOut'    : 'none',
+         'type'				: 'iframe'
+     });
  });
 
 

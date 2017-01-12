@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17bced5-1adb-4821-9941-17477c0d53f9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/myfolio.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/__MACOSX/ajax-contact-form-demo/._jquery-2.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/ajax-contact-form-demo/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/ajax-contact-form-demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/ajax-contact-form-demo/jquery-2.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/ajax-contact-form-demo/mailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax-contact-form-demo/ajax-contact-form-demo/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php-contact-form-with-jquery-ajax/contact_mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php-contact-form-with-jquery-ajax/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/email.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/validation.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <ignored path="myfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +32,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+                <state relative-caret-position="442">
+                  <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
                   <folding>
                     <element signature="n#div#15;n#div#0;n#section#6;n#main#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
@@ -111,8 +99,8 @@
         <option value="$PROJECT_DIR$/css/media.css" />
         <option value="$PROJECT_DIR$/mail.php" />
         <option value="$PROJECT_DIR$/css/style.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -284,12 +272,12 @@
       <workItem from="1483974671018" duration="8711000" />
       <workItem from="1484039256854" duration="591000" />
       <workItem from="1484117776147" duration="8926000" />
-      <workItem from="1484140348022" duration="17341000" />
+      <workItem from="1484140348022" duration="17626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35578000" />
+    <option name="totallyTimeSpent" value="35863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1234" height="816" extended-state="0" />
@@ -472,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="442">
+          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
           <folding>
             <element signature="n#div#15;n#div#0;n#section#6;n#main#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>

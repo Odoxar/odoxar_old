@@ -8,11 +8,6 @@ body {
 .hide_popup {
   display: none; }
 
-/*---------modal----------*/
-#modal {
-  display: none; }
-
-/*---------modal-end---*/
 /*----------Header----------*/
 .wrap {
   box-sizing: border-box;
@@ -32,7 +27,7 @@ body {
   padding: 0 0 50px; }
 
 .header-image {
-  padding: 0 35px; }
+  padding: 0 10px 0 60px; }
 
 .header-content {
   padding-left: 20px; }

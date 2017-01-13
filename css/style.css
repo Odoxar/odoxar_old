@@ -137,7 +137,8 @@ body {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  padding-top: 40px; }
+  padding-top: 40px;
+  padding-bottom: 30px; }
 
 .work-gallery-item {
   margin-bottom: 15px; }
@@ -172,12 +173,12 @@ body {
   border: 1px solid #7b90b5;
   text-align: center;
   position: relative; }
-  .work-gallery-logo:hover .work-gallery-link {
+  .work-gallery-logo:hover .work-gallery-link, .work-gallery-logo:focus .work-gallery-link {
     visibility: visible;
     opacity: 1; }
 
 .millidesign {
-  padding-top: 25px;
+  padding-top: 19px;
   font-family: 'Oswald', sans-serif;
   font-size: 26px;
   font-weight: 400;

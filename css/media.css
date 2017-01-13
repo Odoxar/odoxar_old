@@ -118,7 +118,8 @@
         margin: 0 auto;
     }
 
-    .work-gallery-link {
+    .work-gallery-logo:hover .work-gallery-link,
+    .work-gallery-logo:focus .work-gallery-link {
         visibility: visible;
         opacity: 0;
     }
@@ -205,7 +206,8 @@
         margin: 0 auto;
     }
 
-    .work-gallery-link {
+    .work-gallery-logo:hover .work-gallery-link,
+    .work-gallery-logo:focus .work-gallery-link {
         visibility: visible;
         opacity: 0;
     }

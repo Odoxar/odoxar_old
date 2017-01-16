@@ -29,7 +29,7 @@
 
 
 $(".anchor").click(function() {
-    $('html, body').animate({
+    $('body,html').animate({
         scrollTop: $("#portfolio").offset().top
     }, 800);
 });

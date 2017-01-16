@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17bced5-1adb-4821-9941-17477c0d53f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eng/index.html" afterPath="$PROJECT_DIR$/eng/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ukr/index.html" afterPath="$PROJECT_DIR$/ukr/index.html" />
     </list>
     <ignored path="myfolio.iws" />
@@ -25,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eng/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
@@ -45,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ukr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="112" column="108" selection-start-line="112" selection-start-column="108" selection-end-line="112" selection-end-column="108" />
+            <state relative-caret-position="418">
+              <caret line="365" column="77" selection-start-line="365" selection-start-column="77" selection-end-line="365" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -71,8 +70,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/media.css" />
         <option value="$PROJECT_DIR$/ukr/js/script.js" />
-        <option value="$PROJECT_DIR$/ukr/index.html" />
         <option value="$PROJECT_DIR$/eng/index.html" />
+        <option value="$PROJECT_DIR$/ukr/index.html" />
       </list>
     </option>
   </component>
@@ -264,12 +263,12 @@
       <workItem from="1484117776147" duration="8926000" />
       <workItem from="1484140348022" duration="33388000" />
       <workItem from="1484510572034" duration="3462000" />
-      <workItem from="1484553693852" duration="21125000" />
+      <workItem from="1484553693852" duration="21760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76212000" />
+    <option name="totallyTimeSpent" value="76847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1234" height="816" extended-state="0" />
@@ -533,18 +532,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ukr/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="112" column="108" selection-start-line="112" selection-start-column="108" selection-end-line="112" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eng/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="218" column="64" selection-start-line="218" selection-start-column="64" selection-end-line="218" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ukr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="365" column="77" selection-start-line="365" selection-start-column="77" selection-end-line="365" selection-end-column="77" />
           <folding />
         </state>
       </provider>

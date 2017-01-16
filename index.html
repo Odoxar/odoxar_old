@@ -25,10 +25,16 @@
     <link rel="stylesheet" href="css/media.css">
     <link rel="stylesheet" href="css/print.css" media="print" />
 </head>
-<body>
+<body id="top">
 <div class="container">
     <div class="row">
         <div class="wrap ">
+            <nav class="nav hidden-print">
+                <ul class="nav-menu">
+                    <li class="nav-menu-item"><a href="" class="nav-menu-link">en</a><span class="nav-menu-text">ua</span></li>
+                    <li class="nav-menu-item"><a href="#portfolio" class="nav-menu-link anchor">портфоліо</a></li>
+                </ul>
+            </nav>
             <img src="images/ptop.png" alt="" class="wrap-image hidden-print">
             <header class="header clearfix">
                 <img src="images/my_foto.jpg" alt="" class="header-image col-md-3 col-sm-5 col-xs-5 print-offset-1 print-3">
@@ -67,8 +73,8 @@
                             <span class="content-info-link-text">denisyumak</span>
                         </li>
                         <li class="header-content-info-item visible-print">
-                            <i class="fa fa-vk" aria-hidden="true"></i>
-                            <span class="content-info-link-text">vk.com/odoxar</span>
+                            <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                            <span class="content-info-link-text">www.linkedin.com/in/denys-siumak-757b47136</span>
                         </li>
                     </ul>
                 </div>
@@ -76,9 +82,9 @@
                     <li class="social-item"><a href="resume/Denys_Siumak_resume.pdf" download class="social-link" title="Завантажити PDF файл "><i class="fa fa-download" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a href="" onclick="window.print();return false;" class="social-link" title="Роздрукувати копію резюме"><i class="fa fa-print" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a href="https://github.com/Odoxar" target="_blank" class="social-link" title="Профіль на GitHub"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a href="https://www.facebook.com/odoxar" target="_blank" class="social-link" title="Профіль на Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a href="https://www.facebook.com/odoxar" target="_blank" class="social-link" title="Профіль в Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a href="skype:denisyumak?chat" class="social-link" title="Написати в Skype"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a href="https://vk.com/odoxar" target="_blank" class="social-link" title="Профіль на ВКонтакте"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a href="https://www.linkedin.com/in/denys-siumak-757b47136" target="_blank" class="social-link" title="Профіль в LinkedIn"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
                 </ul>
             </header>
             <main class="main">
@@ -196,7 +202,7 @@
                         <p class="section-content-language col-md-offset-4 col-md-8 print-offset-4 print-8">англійська –Pre-Intermediate</p>
                     </div>
                 </section>
-                <section class="work hidden-print clearfix">
+                <section class="work hidden-print clearfix" id="portfolio">
                     <h1 class="section-title col-md-4 print-4">Портфоліо</h1>
                     <div class="work-gallery col-md-8 hidden-print">
                         <div class="work-gallery-item col-md-6 col-sm-6 col-xs-12">
@@ -357,6 +363,7 @@
                     </div>
                 </section>
             </main>
+            <div id="message"><a href="#top" class="top-link">Go to Top</a></div>
         </div>
     </div>
 </div>

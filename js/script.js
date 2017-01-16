@@ -9,29 +9,45 @@
          mouseWheel: false
      });
 
+     $(window).scroll(function() {
+         if($(this).scrollTop() > 100) {
+             $('#message').fadeIn();
+         } else {
+             $('#message').fadeOut();
+         }
+     });
+
+     // // smooth scrolling to anchor
+     $('#message').click(function() {
+         $('body,html').animate({scrollTop:0},800);
+         return false;
+     });
  });
 
 
-// // // smooth scrolling to anchor
-//     //smoothscroll
+
+
+
+$(".anchor").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#portfolio").offset().top
+    }, 800);
+});
+
 //
-//     $('.header-menu').onePageNav({
-//         currentClass: 'active',
-//         changeHash: true,
-//         scrollSpeed: 750,
-//         scrollThreshold: 0.5,
-//         filter: ''
+// function showThatDiv() {
+//     var thatDiv = $('#message');
+//     thatDiv.css({
+//         display: 'block',
+//         opacity: 0
 //     });
-//     $(window).on('load resize', function() {
-//         $('.slicknav_nav').onePageNav({
-//             currentClass: 'active',
-//             changeHash: true,
-//             scrollSpeed: 750,
-//             scrollThreshold: 0.5,
-//             filter: ''
-//         });
-//     });
-//
+//     // calculate x and y HERE
+//     thatDiv.css({
+//         left: x,
+//         top: y
+//     }).fadeIn("slow");
+// }
+
 //  var wow = new WOW({
 //             offset:       100,          // default
 //             mobile:       false       // default

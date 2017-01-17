@@ -81,13 +81,8 @@
     }
 
     .nav-menu-link {
-        margin-bottom: 1px;
-        display: inline-block;
         font-size: 13px;
-        padding: 0;
         margin-right: 18px;
-        text-transform: uppercase;
-        text-decoration: none;
     }
 
     .nav-menu-text {
@@ -229,6 +224,12 @@
 
     .nav-menu-item:last-child {
         background-color: #e67223;
+    }
+
+    .nav-menu-item .nav-menu-link {
+        width: 100%;
+        padding: 9px 10px;
+        text-align: center;
     }
 
     .nav-menu-text {

@@ -6,7 +6,8 @@ body {
   background-image: url("../images/bg.jpg"); }
 
 .hide_popup {
-  display: none; }
+  display: none;
+  margin: 0 10px; }
 
 /*----------Header----------*/
 .wrap {
@@ -333,8 +334,12 @@ body {
   height: auto; }
 
 .fancybox-nav {
+  height: 92%;
   width: 15%;
-  height: 75%; }
+  top: 8%; }
+
+.fancybox-next {
+  right: 15px; }
 
 .popup-title {
   margin-left: 0; }
@@ -342,7 +347,10 @@ body {
 .button-wrap {
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  position: absolute;
+  top: 0;
+  right: 10px; }
 
 .popup-text {
   padding: 15px; }

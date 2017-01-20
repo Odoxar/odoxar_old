@@ -8,6 +8,7 @@ body {
 
 .hide_popup {
   display: none;
+  margin: 0 10px;
 }
 
 /*----------Header----------*/
@@ -387,8 +388,13 @@ body {
 
 
 .fancybox-nav {
+  height: 92%;
   width: 15%;
-  height:75%;
+  top: 8%;
+}
+
+.fancybox-next {
+  right: 15px;
 }
 
 .popup-title {
@@ -399,6 +405,9 @@ body {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
+  position: absolute;
+  top: 0;
+  right: 10px;
 }
 
 .popup-text {

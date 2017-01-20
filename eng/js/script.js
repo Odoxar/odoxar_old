@@ -1,8 +1,6 @@
 
 "use strict";
- $(".contact").fancybox({
-     type: "iframe"
- });
+
  $(document).ready(function() {
      $(".work-gallery-link").fancybox({
          arrows: true,
@@ -33,20 +31,6 @@ $(".anchor").click(function() {
         scrollTop: $("#portfolio").offset().top
     }, 800);
 });
-
-//
-// function showThatDiv() {
-//     var thatDiv = $('#message');
-//     thatDiv.css({
-//         display: 'block',
-//         opacity: 0
-//     });
-//     // calculate x and y HERE
-//     thatDiv.css({
-//         left: x,
-//         top: y
-//     }).fadeIn("slow");
-// }
 
 //  var wow = new WOW({
 //             offset:       100,          // default

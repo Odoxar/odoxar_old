@@ -5,7 +5,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eng/css/style.css" afterPath="$PROJECT_DIR$/eng/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eng/css/style.scss" afterPath="$PROJECT_DIR$/eng/css/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eng/js/script.js" afterPath="$PROJECT_DIR$/eng/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eng/index.html" afterPath="$PROJECT_DIR$/eng/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ukr/index.html" afterPath="$PROJECT_DIR$/ukr/index.html" />
     </list>
     <ignored path="myfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,36 +27,12 @@
     <favorites_list name="myfolio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eng/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ukr/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3757">
-              <caret line="359" column="100" selection-start-line="359" selection-start-column="100" selection-end-line="359" selection-end-column="100" />
-              <caret line="358" column="70" selection-start-line="358" selection-start-column="70" selection-end-line="358" selection-end-column="70" />
-              <caret line="337" column="70" selection-start-line="337" selection-start-column="70" selection-end-line="337" selection-end-column="70" />
-              <caret line="338" column="100" selection-start-line="338" selection-start-column="100" selection-end-line="338" selection-end-column="100" />
-              <caret line="318" column="100" selection-start-line="318" selection-start-column="100" selection-end-line="318" selection-end-column="100" />
-              <caret line="317" column="70" selection-start-line="317" selection-start-column="70" selection-end-line="317" selection-end-column="70" />
-              <caret line="297" column="100" selection-start-line="297" selection-start-column="100" selection-end-line="297" selection-end-column="100" />
-              <caret line="296" column="70" selection-start-line="296" selection-start-column="70" selection-end-line="296" selection-end-column="70" />
-              <caret line="279" column="100" selection-start-line="279" selection-start-column="100" selection-end-line="279" selection-end-column="100" />
-              <caret line="278" column="70" selection-start-line="278" selection-start-column="70" selection-end-line="278" selection-end-column="70" />
-              <caret line="261" column="100" selection-start-line="261" selection-start-column="100" selection-end-line="261" selection-end-column="100" />
-              <caret line="260" column="70" selection-start-line="260" selection-start-column="70" selection-end-line="260" selection-end-column="70" />
-              <caret line="223" column="100" selection-start-line="223" selection-start-column="100" selection-end-line="223" selection-end-column="100" />
-              <caret line="222" column="100" selection-start-line="222" selection-start-column="100" selection-end-line="222" selection-end-column="100" />
-              <caret line="221" column="70" selection-start-line="221" selection-start-column="70" selection-end-line="221" selection-end-column="70" />
+            <state relative-caret-position="959">
+              <caret line="356" column="34" selection-start-line="356" selection-start-column="34" selection-end-line="356" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -74,18 +51,28 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eng/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="392" column="10" selection-start-line="392" selection-start-column="10" selection-end-line="392" selection-end-column="10" />
+            <state relative-caret-position="218">
+              <caret line="406" column="22" selection-start-line="406" selection-start-column="22" selection-end-line="406" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eng/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
               <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eng/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="371" column="83" selection-start-line="371" selection-start-column="83" selection-end-line="371" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -109,11 +96,11 @@
         <option value="$PROJECT_DIR$/ukr/css/style.scss" />
         <option value="$PROJECT_DIR$/ukr/css/media.css" />
         <option value="$PROJECT_DIR$/ukr/css/print.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/eng/js/script.js" />
+        <option value="$PROJECT_DIR$/eng/css/style.scss" />
         <option value="$PROJECT_DIR$/eng/index.html" />
         <option value="$PROJECT_DIR$/ukr/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/eng/css/style.scss" />
-        <option value="$PROJECT_DIR$/eng/js/script.js" />
       </list>
     </option>
   </component>
@@ -155,6 +142,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,24 +172,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ukr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ukr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,7 +227,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,12 +313,13 @@
       <workItem from="1484553693852" duration="25322000" />
       <workItem from="1484765785825" duration="856000" />
       <workItem from="1484899091405" duration="72000" />
-      <workItem from="1484899381167" duration="3604000" />
+      <workItem from="1484899381167" duration="4083000" />
+      <workItem from="1485080328230" duration="1489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84941000" />
+    <option name="totallyTimeSpent" value="86909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1234" height="816" extended-state="0" />
@@ -389,6 +359,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eng/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ukr/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3757">
+          <caret line="359" column="100" selection-start-line="359" selection-start-column="100" selection-end-line="359" selection-end-column="100" />
+          <caret line="358" column="70" selection-start-line="358" selection-start-column="70" selection-end-line="358" selection-end-column="70" />
+          <caret line="337" column="70" selection-start-line="337" selection-start-column="70" selection-end-line="337" selection-end-column="70" />
+          <caret line="338" column="100" selection-start-line="338" selection-start-column="100" selection-end-line="338" selection-end-column="100" />
+          <caret line="318" column="100" selection-start-line="318" selection-start-column="100" selection-end-line="318" selection-end-column="100" />
+          <caret line="317" column="70" selection-start-line="317" selection-start-column="70" selection-end-line="317" selection-end-column="70" />
+          <caret line="297" column="100" selection-start-line="297" selection-start-column="100" selection-end-line="297" selection-end-column="100" />
+          <caret line="296" column="70" selection-start-line="296" selection-start-column="70" selection-end-line="296" selection-end-column="70" />
+          <caret line="279" column="100" selection-start-line="279" selection-start-column="100" selection-end-line="279" selection-end-column="100" />
+          <caret line="278" column="70" selection-start-line="278" selection-start-column="70" selection-end-line="278" selection-end-column="70" />
+          <caret line="261" column="100" selection-start-line="261" selection-start-column="100" selection-end-line="261" selection-end-column="100" />
+          <caret line="260" column="70" selection-start-line="260" selection-start-column="70" selection-end-line="260" selection-end-column="70" />
+          <caret line="223" column="100" selection-start-line="223" selection-start-column="100" selection-end-line="223" selection-end-column="100" />
+          <caret line="222" column="100" selection-start-line="222" selection-start-column="100" selection-end-line="222" selection-end-column="100" />
+          <caret line="221" column="70" selection-start-line="221" selection-start-column="70" selection-end-line="221" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eng/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6664">
+          <caret line="392" column="10" selection-start-line="392" selection-start-column="10" selection-end-line="392" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eng/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eng/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
@@ -471,24 +495,26 @@
     <entry file="file://$PROJECT_DIR$/ukr/css/style.scss" />
     <entry file="file://$PROJECT_DIR$/ukr/css/media.css" />
     <entry file="file://$PROJECT_DIR$/ukr/css/print.css" />
-    <entry file="file://$PROJECT_DIR$/ukr/index.html">
+    <entry file="file://$PROJECT_DIR$/eng/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3757">
-          <caret line="359" column="100" selection-start-line="359" selection-start-column="100" selection-end-line="359" selection-end-column="100" />
-          <caret line="358" column="70" selection-start-line="358" selection-start-column="70" selection-end-line="358" selection-end-column="70" />
-          <caret line="337" column="70" selection-start-line="337" selection-start-column="70" selection-end-line="337" selection-end-column="70" />
-          <caret line="338" column="100" selection-start-line="338" selection-start-column="100" selection-end-line="338" selection-end-column="100" />
-          <caret line="318" column="100" selection-start-line="318" selection-start-column="100" selection-end-line="318" selection-end-column="100" />
-          <caret line="317" column="70" selection-start-line="317" selection-start-column="70" selection-end-line="317" selection-end-column="70" />
-          <caret line="297" column="100" selection-start-line="297" selection-start-column="100" selection-end-line="297" selection-end-column="100" />
-          <caret line="296" column="70" selection-start-line="296" selection-start-column="70" selection-end-line="296" selection-end-column="70" />
-          <caret line="279" column="100" selection-start-line="279" selection-start-column="100" selection-end-line="279" selection-end-column="100" />
-          <caret line="278" column="70" selection-start-line="278" selection-start-column="70" selection-end-line="278" selection-end-column="70" />
-          <caret line="261" column="100" selection-start-line="261" selection-start-column="100" selection-end-line="261" selection-end-column="100" />
-          <caret line="260" column="70" selection-start-line="260" selection-start-column="70" selection-end-line="260" selection-end-column="70" />
-          <caret line="223" column="100" selection-start-line="223" selection-start-column="100" selection-end-line="223" selection-end-column="100" />
-          <caret line="222" column="100" selection-start-line="222" selection-start-column="100" selection-end-line="222" selection-end-column="100" />
-          <caret line="221" column="70" selection-start-line="221" selection-start-column="70" selection-end-line="221" selection-end-column="70" />
+        <state relative-caret-position="561">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eng/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="406" column="22" selection-start-line="406" selection-start-column="22" selection-end-line="406" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eng/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="371" column="83" selection-start-line="371" selection-start-column="83" selection-end-line="371" selection-end-column="83" />
           <folding />
         </state>
       </provider>
@@ -501,26 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eng/css/style.scss">
+    <entry file="file://$PROJECT_DIR$/ukr/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="392" column="10" selection-start-line="392" selection-start-column="10" selection-end-line="392" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eng/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eng/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="959">
+          <caret line="356" column="34" selection-start-line="356" selection-start-column="34" selection-end-line="356" selection-end-column="34" />
           <folding />
         </state>
       </provider>

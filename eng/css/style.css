@@ -347,10 +347,7 @@ body {
 .button-wrap {
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 10px;
-  position: absolute;
-  top: 0;
-  right: 10px; }
+  margin-bottom: 10px; }
 
 .popup-text {
   padding: 15px; }

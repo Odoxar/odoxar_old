@@ -153,10 +153,20 @@
         margin: 0 auto;
     }
 
+    .work-gallery-link {
+        visibility: visible;
+        opacity: 1;
+        background-color: inherit;
+    }
+
+    .gallery-hover-text {
+        display: none;
+    }
+
     .work-gallery-logo:hover .work-gallery-link,
     .work-gallery-logo:focus .work-gallery-link {
         visibility: visible;
-        opacity: 0;
+        opacity: 1;
     }
 
     #message {
@@ -306,10 +316,20 @@
         margin: 0 auto;
     }
 
+    .work-gallery-link {
+        visibility: visible;
+        opacity: 1;
+        background-color: inherit;
+    }
+
+    .gallery-hover-text {
+        display: none;
+    }
+
     .work-gallery-logo:hover .work-gallery-link,
     .work-gallery-logo:focus .work-gallery-link {
         visibility: visible;
-        opacity: 0;
+        opacity: 1;
     }
 
     .work-gallery-link-image {

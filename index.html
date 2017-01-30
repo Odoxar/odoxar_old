@@ -9,10 +9,11 @@
 <body>
 <script type='text/javascript'>
     var language = window.navigator.language;
-    if(language == 'uk-UA' || language == 'ru-UA') {
-        window.location.href = '/ukr'
+    var timeLocation = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    if(timeLocation = 'kiev' || language == 'uk-UA' || language == 'ru-UA') {
+        window.location.href = 'ukr'
     }    else {
-        window.location.href = '/eng'
+        window.location.href = 'eng'
     }
 </script>
 <script>

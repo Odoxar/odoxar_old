@@ -8,11 +8,16 @@
 </head>
 <body>
 <script type='text/javascript'>
-    var language = window.navigator.language;
-    var timeLocation = Intl.DateTimeFormat().resolvedOptions().timeZone;
-    if(timeLocation = 'kiev' || language == 'uk-UA' || language == 'ru-UA') {
+    var language = window.navigator.language,
+        date = new Date(),
+        offset = date.getTimezoneOffset();
+
+    if (offset <= 720 && offset >= 960) {
+        window.location.href = 'page1.htm';
+    }
+    if(offset <= -120 && offset >= -180 || language == 'uk-UA') {
         window.location.href = 'ukr'
-    }    else {
+    } else {
         window.location.href = 'eng'
     }
 </script>
